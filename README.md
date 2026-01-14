@@ -1,2 +1,2 @@
-#GitHub & Git Assignment
-##What I Learned from the Video
+GitHub & Git Assignment
+What I Learned from the Video
